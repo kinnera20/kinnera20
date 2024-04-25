@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Kinnera Veerapaneni.
 - 👀 I’m interested in Data, storytelling.
 - 🌱 I’m currently learning Data Science, Machine Learning, Sentiment Analysis, Financial Analysis.
