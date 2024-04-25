@@ -1,4 +1,4 @@
-
+## Passionate about the intricacies of data, I thrive on unraveling its complexities to extract meaningful insights and drive informed decision-making. My enthusiasm for data fuels my commitment to continuously improve and innovate in the field.
 - 👋 Hi, I’m Kinnera Veerapaneni.
 - 👀 I’m interested in Data, storytelling.
 - 🌱 I’m currently learning Data Science, Machine Learning, Sentiment Analysis, Financial Analysis.
